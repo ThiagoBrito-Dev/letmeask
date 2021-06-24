@@ -1,10 +1,12 @@
 import { FormEvent, useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import logoImg from '../assets/images/logo.svg';
+import { useAuth } from '../hooks/useAuth';
 
 import { Button } from '../components/Button';
 import { RoomCode } from '../components/RoomCode';
-import { useAuth } from '../hooks/useAuth';
+import { Question } from '../components/Question';
+import logoImg from '../assets/images/logo.svg';
+
 import { database } from '../services/firebase';
 
 import '../styles/room.scss';
@@ -19,12 +21,13 @@ type FirebaseQuestions = Record<string, {
   isHighlighted: boolean;
 }>
 
-type Questions = {
+type QuestionType = {
   id: string;
   author: {
     name: string;
     avatar: string;
   };
+  content: string;
   isHighlighted: boolean;
   isAnswered: boolean;
 }
@@ -38,7 +41,7 @@ export function Room() {
   const roomId = params.id;
   const { user } = useAuth();
   const [newQuestion, setNewQuestion] = useState('');
-  const [questions, setQuestions] = useState<Questions[]>([]);
+  const [questions, setQuestions] = useState<QuestionType[]>([]);
   const [title, setTitle] = useState('');
 
   useEffect(() => {
@@ -125,7 +128,18 @@ export function Room() {
             <Button type="submit" disabled={!user}>Enviar pergunta</Button>
           </div>
         </form>
-        {/* {JSON.stringify(questions)} */}
+
+        <div className="question-list">
+          {questions.map(question => {
+            return (
+              <Question
+                key={question.id}
+                content={question.content}
+                author={question.author}
+              />
+            );
+          })}
+        </div>
       </main>
     </div>
   );
