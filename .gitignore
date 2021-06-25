@@ -24,3 +24,7 @@ yarn-error.log*
 
 # related
 .vscode
+.firebase
+.firebaserc
+database.rules.json
+firebase.json
