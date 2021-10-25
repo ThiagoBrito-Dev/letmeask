@@ -124,8 +124,8 @@ $ yarn start
 
 ### 📚 README versions
 
-<p>
-    <a href="https://github.com/ThiagoBrito-Dev/letmeask/blob/main/README.md">Portuguese (pt-br)</a>
-        |   
-    <a href="https://github.com/ThiagoBrito-Dev/letmeask/blob/main/README-en.md">English (en-us)</a>
-</p>
+<div>
+  <a href="https://github.com/ThiagoBrito-Dev/letmeask/blob/main/README.md">Portuguese (pt-br)</a>
+  |   
+  <a href="https://github.com/ThiagoBrito-Dev/letmeask/blob/main/README-en.md">English (en-us)</a>
+</div>
