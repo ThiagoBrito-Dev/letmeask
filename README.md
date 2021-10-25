@@ -23,7 +23,6 @@
   </div>
 </div>
 
-<br/>
 <hr>
 
 ### 🏁 Status
