@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Letmeask</h1>
-  <img src="./.github/letmeask.png">
-  <h3 align="center">
-    💬 Aplicação ReactJS para criação e participação em salas de perguntas e respostas - Q&A - ao vivo
-  </h3>
+  <div>
+    <h1>Letmeask</h1>
+    <img src="./.github/letmeask.png" />
+    <h3>
+      💬 Aplicação ReactJS para criação e participação em salas de perguntas e respostas - Q&A - ao vivo
+    </h3>
+  </div>
 
   <p>
     <a href="#-status">Status</a> •
