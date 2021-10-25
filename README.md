@@ -4,21 +4,21 @@
   <h3 align="center">
     💬 Aplicação ReactJS para criação e participação em salas de perguntas e respostas - Q&A - ao vivo
   </h3>
-</div>
 
-<div align="center">
-  <a href="#-status">Status</a> •
-  <a href="#-features">Features</a> • 
-  <a href="#%EF%B8%8F-pré-requisitos">Pré-requisitos</a> • 
-  <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
-  <a href="#-autor">Autor</a> •
-  <a href="#-readme-versions">README versions</a>
-</div>
+  <p>
+    <a href="#-status">Status</a> •
+    <a href="#-features">Features</a> • 
+    <a href="#%EF%B8%8F-pré-requisitos">Pré-requisitos</a> • 
+    <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
+    <a href="#-autor">Autor</a> •
+    <a href="#-readme-versions">README versions</a>
+  </p>
 
-<div align="center">
-  <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=8d5afd" />
-  <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8d5afd" />
-  <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8d5afd" />
+  <div>
+    <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=8d5afd&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8d5afd&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8d5afd&style=for-the-badge" />
+  </div>
 </div>
 
 <br/>
