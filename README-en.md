@@ -1,17 +1,16 @@
 <div align="center">
   <div>
     <h1>Letmeask</h1>
+    <p>
+      <a href="#-status">Status</a> •
+      <a href="#-features">Features</a> •
+      <a href="#%EF%B8%8F-prerequisites">Prerequisites</a> •
+      <a href="#-applied-technologies">Applied Technologies</a> •
+      <a href="#-author">Author</a> •
+      <a href="#-readme-versions">README versions</a>
+    </p>
     <img src="./.github/letmeask.png" />
   </div>
-
-  <p>
-    <a href="#-status">Status</a> •
-    <a href="#-features">Features</a> • 
-    <a href="#%EF%B8%8F-prerequisites">Prerequisites</a> • 
-    <a href="#-applied-technologies">Applied Technologies</a> • 
-    <a href="#-author">Author</a> •
-    <a href="#-readme-versions">README versions</a>
-  </p>
 
   <div>
     <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=8d5afd&style=for-the-badge" />
