@@ -74,7 +74,7 @@ $ git clone <https://github.com/ThiagoBrito-Dev/letmeask>
 # Acesse a pasta do projeto pelo terminal de comando
 $ cd .../letmeask
 
-# instale as dependências presentes no package.json
+# Instale as dependências presentes no package.json
 $ yarn / npm install
 
 # Execute a aplicação
@@ -99,7 +99,7 @@ $ yarn start
 ### 👨🏽‍🎓 Autor
 
 <div align="center">
-  <img src="https://github.com/ThiagoBrito-Dev.png" width="275px" />
+  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
 
   <br />
 
