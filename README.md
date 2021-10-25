@@ -61,7 +61,7 @@
 
 ### ❗️ Pré-requisitos
 
-Fala Dev, beleza? Antes de iniciar seus testes e/ou contribuições na aplicação, é necessário ter o nosso maravilhoso [GIT](https://git-scm.com) instalado, bem como, um bom editor de texto.
+Fala Dev, beleza? Antes de iniciar seus testes e/ou contribuições na aplicação, é necessário ter duas coisas instaladas, a primeira é o nosso maravilhoso [GIT](https://git-scm.com) e a segunda, o [Node.js](https://nodejs.org), além, é claro, de um bom editor de texto.
 
 Bom, com tudo instalado e pronto, podemos ir para o passo a passo de como rodar a aplicação.
 
