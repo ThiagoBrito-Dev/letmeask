@@ -5,7 +5,7 @@
       <a href="#-status">Status</a> •
       <a href="#-features">Features</a> •
       <a href="#%EF%B8%8F-prerequisites">Prerequisites</a> •
-      <a href="#-applied-technologies">Applied Technologies</a> •
+      <a href="#-applied-technologies">Applied technologies</a> •
       <a href="#-author">Author</a> •
       <a href="#-readme-versions">README versions</a>
     </p>
@@ -81,7 +81,7 @@ $ yarn start
 
 <hr>
 
-### 🔮 Applied Technologies
+### 🔮 Applied technologies
 
 - [HTML](https://devdocs.io/html/)
 - [Sass](https://sass-lang.com/)
