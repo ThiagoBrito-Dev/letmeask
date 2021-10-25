@@ -74,7 +74,7 @@ $ git clone <https://github.com/ThiagoBrito-Dev/letmeask>
 # Acesse a pasta do projeto pelo terminal de comando
 $ cd .../letmeask
 
-# Por meio do terminal de comando, instale as dependências presentes no package.json
+# instale as dependências presentes no package.json
 $ yarn / npm install
 
 # Execute a aplicação
@@ -100,18 +100,24 @@ $ yarn start
 
 <div align="center">
   <img src="https://github.com/ThiagoBrito-Dev.png" width="275px" />
+
   <br />
-  <h3>
-    🤝 Thiago Raniery Brito
-  </h3>
-  <p>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.</p>
-  <br />
-  <a href="https://www.linkedin.com/in/thiagoranierybrito/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" />
-  </a>
-  <a href="mailto:thiagobritotrs@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" />
-  </a>
+
+  <div>
+    <h3>
+      🤝 Thiago Raniery Brito
+    </h3>
+    <p>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.</p>
+  </div>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/thiagoranierybrito/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" />
+    </a>
+    <a href="mailto:thiagobritotrs@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" />
+    </a>
+  </div>
 </div>
 
 <hr>
