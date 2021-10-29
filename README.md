@@ -17,7 +17,7 @@
   </p>
 
   <div>
-    <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=8d5afd&style=for-the-badge" />
+    <img src="https://img.shields.io/github/license/trybrito/Podcastr?color=8d5afd&style=for-the-badge" />
     <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8d5afd&style=for-the-badge" />
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8d5afd&style=for-the-badge" />
   </div>
@@ -69,7 +69,7 @@ Bom, com tudo instalado e pronto, podemos ir para o passo a passo de como rodar 
 
 ```bash
 # Primeiramente, clone este repositório com o GIT
-$ git clone <https://github.com/ThiagoBrito-Dev/letmeask>
+$ git clone <https://github.com/trybrito/letmeask>
 
 # Acesse a pasta do projeto pelo terminal de comando
 $ cd .../letmeask
@@ -99,7 +99,7 @@ $ yarn start
 ### 👨🏽‍🎓 Autor
 
 <div align="center">
-  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+  <img src="https://github.com/trybrito.png" width="250px" />
 
   <br />
 
@@ -125,7 +125,7 @@ $ yarn start
 ### 📚 README versions
 
 <div>
-  <a href="https://github.com/ThiagoBrito-Dev/letmeask/blob/main/README.md">Portuguese (pt-br)</a>
+  <a href="https://github.com/trybrito/letmeask/blob/main/README.md">Portuguese (pt-br)</a>
   |
-  <a href="https://github.com/ThiagoBrito-Dev/letmeask/blob/main/README-en.md">English (en-us)</a>
+  <a href="https://github.com/trybrito/letmeask/blob/main/README-en.md">English (en-us)</a>
 </div>
